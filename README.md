@@ -5,7 +5,8 @@ To See Project **Click**: [<b>Financial News headlines Sentiment Analysis Disser
 
 **Dataset Link**: [<b>Financial PhaseBank CSV</b>](https://github.com/BlessingNehohwa/Dissertation-NLP-Project/blob/main/Findata.csv)
 
-This notebook looks into using various python based machine learning and data science libraries in an attempt to build a machine learning model capable of predicting whether or not someone has heart disease based on their medical attributes. We're going to take the following approach or pipeline.
+For this research project we used the Financial Phrase Bank dataset which I renamed Findata.csv it’s a comma-separated file type. This is made up of the top stories on firms listed on the OMX Helsinki Exchange in English financial news. 
+
 1. Problem definition.
 2. Data.
 3. Evaluation.
