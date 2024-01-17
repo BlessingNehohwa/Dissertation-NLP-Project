@@ -1,5 +1,5 @@
 # Financial News headlines Sentiment Analysis.
-To See Project **Click**: [<b>Financial News headlines Sentiment Analysis Dissertaion Project</b>](https://github.com/BlessingNehohwa/Dissertation-NLP-Project/blob/main/Dissertation%20project%20Financial%20News%20sentiment%20analysis-checkpoint.ipynb)
+To See Project **Click**: [<b>Financial News headlines Sentiment Analysis Msc Data Science Dissertation Project</b>](https://github.com/BlessingNehohwa/Dissertation-NLP-Project/blob/main/Dissertation%20project%20Financial%20News%20sentiment%20analysis-checkpoint.ipynb)
 
 ### Business Problem
 
